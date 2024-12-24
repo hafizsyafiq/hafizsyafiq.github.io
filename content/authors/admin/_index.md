@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: HNS prosuction
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Video inframe
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hafiz
+last_name: Nursyafiq
 
 # Status emoji
 status:
