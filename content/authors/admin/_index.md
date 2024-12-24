@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Eksplorasi teknologi terbaru dalam videografi
-  - Pengembangan strategi storytelling visual 
-  - Eksperimen dengan teknik sinematografi kreatif
+  - Eksplorasi teknologi videografi
+  - Pengembangan storytelling visual 
+  - Eksperimen sinematografi kreatif
 
 education:
   - area: Kebumen
@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: Kebumen
     institution: Ponpes Al-Kahfi Somalangu
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: Kebumen
     institution: Somalangu studious team
     date_start: 2016-01-01
     date_end: 2020-12-31
