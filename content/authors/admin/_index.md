@@ -47,22 +47,22 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Eksplorasi teknologi terbaru dalam videografi
+  - Pengembangan strategi storytelling visual 
+  - Eksperimen dengan teknik sinematografi kreatif
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Kebumen
+    institution: SMK MA'ARIF 3 Somalangu
+    date_start: 2020
+    date_end: 2023
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Ponpes Al-Kahfi Somalangu
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -73,7 +73,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Somalangu studious team
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
