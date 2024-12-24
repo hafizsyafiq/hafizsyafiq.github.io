@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hafiz Nursyafiq adalah seorang videografer dan konten kreator yang berfokus pada pembuatan konten visual kreatif dan berkualitas tinggi. Dengan keahlian dalam sinematografi, editing video, dan storytelling, Hafiz menciptakan karya yang mampu menyampaikan pesan secara efektif dan menarik. Ia berpengalaman dalam mengembangkan konsep visual yang unik untuk berbagai platform digital, menjadikan setiap konten yang dihasilkan tidak hanya estetis tetapi juga relevan dengan audiens. Komitmennya terhadap inovasi dan detail menjadikan Hafiz sebagai salah satu kreator yang selalu menghasilkan karya dengan standar terbaik.
