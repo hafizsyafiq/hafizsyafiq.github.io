@@ -1,9 +1,9 @@
 ---
 # Display name
-title: HNS prosuction
+title: Hafiz Nursyafiq
 
 # Name pronunciation (optional)
-name_pronunciation: Video inframe
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Hafiz
