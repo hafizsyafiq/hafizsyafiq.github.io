@@ -36,7 +36,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/chafidz_99?igsh=MTVreTg3ejBocTFrNg==
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
