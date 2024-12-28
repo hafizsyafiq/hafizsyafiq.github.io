@@ -84,22 +84,22 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Somalangu Studious Team
+    company_name: Somalangu Studious
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022
+    date_end: 2023
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Daily Worker
+    company_name: Shopee Express
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
+    date_start: 2023
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
@@ -112,15 +112,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Capcut
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Canva
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Adobe Lightroom
         description: ''
         percent: 40
         icon: circle-stack
