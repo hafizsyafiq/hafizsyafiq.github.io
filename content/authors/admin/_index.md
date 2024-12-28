@@ -92,9 +92,9 @@ work:
     date_end: 2023
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - mengelola media sosial pondok pesantren
+      - melakukan dokumentasi setiap event
+      - melakukan editing video dan gambar 
   - position: Daily Worker
     company_name: Shopee Express
     company_url: ''
@@ -103,9 +103,9 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - melakuan sortir barang
+      - melakukan inbound dan outbound barang
+      - melakukan scanning barang sesuai alamat tujuan
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -150,9 +150,9 @@ languages:
     percent: 25
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+#   Juara 3 lomba video kreatif
+#   Juara 2 silver medal asean water 
+#   
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Hafiz Nursyafiq adalah seorang videografer dan konten kreator yang berfokus pada pembuatan konten visual kreatif dan berkualitas tinggi. Dengan keahlian dalam sinematografi, editing video, dan storytelling, Hafiz menciptakan karya yang mampu menyampaikan pesan secara efektif dan menarik. Ia berpengalaman dalam mengembangkan konsep visual yang unik untuk berbagai platform digital, menjadikan setiap konten yang dihasilkan tidak hanya estetis tetapi juga relevan dengan audiens. Komitmennya terhadap inovasi dan detail menjadikan Hafiz sebagai salah satu kreator yang selalu menghasilkan karya dengan standar terbaik.
+saya adalah seorang videografer dan konten kreator yang berfokus pada pembuatan konten visual kreatif dan berkualitas tinggi. Dengan keahlian dalam sinematografi, editing video, dan storytelling, Saya menciptakan karya yang mampu menyampaikan pesan secara efektif dan menarik. Ia berpengalaman dalam mengembangkan konsep visual yang unik untuk berbagai platform digital, menjadikan setiap konten yang dihasilkan tidak hanya estetis tetapi juga relevan dengan audiens. Komitmennya terhadap inovasi dan detail menjadikan Saya sebagai salah satu kreator yang selalu menghasilkan karya dengan standar terbaik.
