@@ -155,7 +155,7 @@ languages:
 #   Juara 2 silver medal asean water 
 #   
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: 2nd China-Asean International competition on water resources and electric power
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
