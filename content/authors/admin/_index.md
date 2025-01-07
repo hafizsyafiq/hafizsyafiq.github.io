@@ -136,7 +136,7 @@ skills:
       - name: badminton
         description: ''
         percent: 100
-        icon: cat
+        icon: badminton
       - name: Photography
         description: ''
         percent: 80
