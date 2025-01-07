@@ -156,10 +156,10 @@ languages:
 #   
 awards:
   - title: 2nd China-Asean International competition on water resources and electric power
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    url: https://www.instagram.com/p/DDYRZC3zgQW/?igsh=MTZtbDY0ZzkxNzdpaQ==
     date: '2023-11-25'
     awarder: Coursera
-    icon: coursera
+    icon: water
     summary: |
      "Saya memenangkan medali perak dalam ajang *2nd China-Asean International Competition on Water Resources and Electric Power*."
   - title: Blockchain Fundamentals
