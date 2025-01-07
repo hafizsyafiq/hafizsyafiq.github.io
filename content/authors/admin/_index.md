@@ -93,9 +93,9 @@ work:
     date_end: 2023
     summary: |2-
       Responsibilities include:
-      - mengelola media sosial pondok pesantren
-      - melakukan dokumentasi setiap event
-      - melakukan editing video dan gambar 
+      - managing Islamic boarding school social media
+      - documenting each event
+      - editing videos and images
   - position: Daily Worker
     company_name: Shopee Express
     company_url: ''
