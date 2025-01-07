@@ -52,19 +52,19 @@ interests:
   - Eksperimen sinematografi kreatif
 
 education:
-  - area: Kebumen
-    institution: SMK MA'ARIF 3 Somalangu
-    date_start: 2020
-    date_end: 2023
+  - area: semarang
+    institution: ITESA muhammadiyah semarang
+    date_start: 2023
+    date_end: -
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Currently pursuing a degree in Software Engineering (Rekayasa Perangkat Lunak) at ITESA Muhammadiyah Semarang, focusing on software development, system analysis, and innovative application design. Actively involved in projects related to web and mobile application development, with a keen interest in implementing agile methodologies and modern software technologies
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Kebumen
-    institution: Ponpes Al-Kahfi Somalangu
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: SMK Ma'arif 3 kebumen
+    date_start: 2020
+    date_end: 2023
     summary: |
       GPA: 3.8/4.0
 
