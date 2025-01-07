@@ -104,9 +104,10 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - melakuan sortir barang
-      - melakukan inbound dan outbound barang
-      - melakukan scanning barang sesuai alamat tujuan
+      - sorting goods
+      - Serving inbound and outbound goods delivery
+      - Scan goods according to destination address
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -158,7 +159,7 @@ awards:
   - title: 2nd China-Asean International competition on water resources and electric power
     url: https://www.instagram.com/p/DDYRZC3zgQW/?igsh=MTZtbDY0ZzkxNzdpaQ==
     date: '2023-11-25'
-    awarder: Coursera
+    awarder: China-Asean
     icon: water
     summary: |
      "Saya memenangkan medali perak dalam ajang *2nd China-Asean International Competition on Water Resources and Electric Power*."
