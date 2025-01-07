@@ -63,7 +63,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Kebumen
-    institution: Ponpes Al-Kahfi Somalangu
+    institution: SMK maarif 3 somalangu
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -74,7 +74,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Kebumen
-    institution: Somalangu studious team
+    institution: ponpes al-kahfi somalangu
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
