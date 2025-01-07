@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: videografi
+role: Software Enginering Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: ITESA Muhammadiyah Semarang
     url: https://openai.com/
 
 # Social network links
