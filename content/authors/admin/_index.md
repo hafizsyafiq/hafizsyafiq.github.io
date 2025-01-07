@@ -47,24 +47,24 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Exploration of videography technology
-  - Development of visual storytelling 
-  - Creative cinematography experiments
+  - Eksplorasi teknologi videografi
+  - Pengembangan storytelling visual 
+  - Eksperimen sinematografi kreatif
 
 education:
-  - area: Semarang
-    institution: ITESA muhammadiyah semarang
-    date_start: 2023
-    date_end: -
+  - area: Kebumen
+    institution: SMK MA'ARIF 3 Somalangu
+    date_start: 2020
+    date_end: 2023
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Kebumen
-    institution: SMK ma'arif 3 somalangu
-    date_start: 2020
-    date_end: 2023
+    institution: Ponpes Al-Kahfi Somalangu
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
@@ -73,9 +73,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Kebumen
-    institution: ponpes al-kahfi somalangu
-    date_start: 2020
-    date_end: 2023
+    institution: Somalangu studious team
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
       
