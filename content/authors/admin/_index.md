@@ -47,9 +47,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Eksplorasi teknologi videografi
-  - Pengembangan storytelling visual 
-  - Eksperimen sinematografi kreatif
+  - Exploration of videography technology
+  - Development of visual storytelling 
+  - Creative cinematography experiments
+
 
 education:
   - area: Kebumen
