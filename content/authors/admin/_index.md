@@ -142,12 +142,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Bahasa
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: english
     percent: 25
+  - name: java
+    percent: 100
 
 # Awards.
 #   Juara 3 lomba video kreatif
