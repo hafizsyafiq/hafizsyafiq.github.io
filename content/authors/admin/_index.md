@@ -119,11 +119,11 @@ skills:
         icon: code-bracket
       - name: Canva
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
       - name: Adobe Lightroom
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -133,7 +133,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: badminton
         description: ''
         percent: 100
         icon: cat
