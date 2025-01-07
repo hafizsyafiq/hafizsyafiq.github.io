@@ -183,4 +183,6 @@ awards:
 
 ## About Me
 
-saya adalah seorang videografer dan konten kreator yang berfokus pada pembuatan konten visual kreatif dan berkualitas tinggi. Dengan keahlian dalam sinematografi, editing video, dan storytelling, Saya menciptakan karya yang mampu menyampaikan pesan secara efektif dan menarik. Ia berpengalaman dalam mengembangkan konsep visual yang unik untuk berbagai platform digital, menjadikan setiap konten yang dihasilkan tidak hanya estetis tetapi juga relevan dengan audiens. Komitmennya terhadap inovasi dan detail menjadikan Saya sebagai salah satu kreator yang selalu menghasilkan karya dengan standar terbaik.
+Software Engineering student at ITESA Muhammadiyah Semarang who has a high enthusiasm for developing technology and digital innovation. Apart from that, I am also a content creator with expertise in photography and videography, creating creative and highly attractive visual works.
+Experienced in creating informative and inspiring content, and has technical skills in the field of software development. Active in various campus activities, including committees and collaborative projects that require good time management and communication.
+My commitment is to create technology solutions that have a positive impact and content that supports sustainability and empowers communities.
