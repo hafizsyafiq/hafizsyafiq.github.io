@@ -6,8 +6,8 @@ title: 'Project video'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Hafiz Nursyafiq
-  - Syabila Wawa
-  - Risma
+  - Rafi indra
+  - talitha
 
 # Author notes (optional)
 author_notes:
