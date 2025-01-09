@@ -62,18 +62,18 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      knowledge gained:
+      - Basics of Software Development and Programming
+      - Network Infrastructure and Computer Maintenance
+      - Multimedia Production and Graphic Design
   - area: Kebumen
     institution: ponpes al-kahfi somalangu
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
