@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: VSCODE
+date: 2024-01-21
+external_link: https://hafizsyafiq.github.io/
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
-
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Visual Studio Code (VSCode) is a powerful and flexible code editor for software development, providing support for debugging, version control, and a wide range of programming languages through extensions
 
 <!--more-->
