@@ -24,10 +24,10 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['Trailer Video']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: In *IMM AL-KHAWARIZMI*
 publication_short: In *ICW*
 
 abstract: This project delves into the dynamic world of video production, emphasizing creativity, innovation, and impactful storytelling. It explores the integration of advanced videography techniques with compelling narratives to produce visually engaging content. By leveraging cutting-edge editing tools and collaborative efforts, the project aims to inspire and captivate diverse audiences. The ultimate goal is to demonstrate the transformative power of video as a medium for communication, education, and artistic expression.
