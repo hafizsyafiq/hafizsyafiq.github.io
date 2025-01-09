@@ -34,8 +34,7 @@ abstract: This project delves into the dynamic world of video production, emphas
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: This project focuses on the creative process of crafting engaging video content that combines technical expertise with artistic vision. It highlights the importance of collaboration, innovation, and attention to detail in producing high-quality visuals that effectively convey messages and emotions. By utilizing modern tools and techniques, the project aims to push the boundaries of visual storytelling.
 tags:
   - Large Language Models
 
