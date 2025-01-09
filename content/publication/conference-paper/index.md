@@ -30,7 +30,9 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This project delves into the dynamic world of video production, emphasizing creativity, innovation, and impactful storytelling. It explores the integration of advanced videography techniques with compelling narratives to produce visually engaging content. By leveraging cutting-edge editing tools and collaborative efforts, the project aims to inspire and captivate diverse audiences. The ultimate goal is to demonstrate the transformative power of video as a medium for communication, education, and artistic expression.
+
+
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
