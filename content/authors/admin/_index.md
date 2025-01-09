@@ -59,8 +59,8 @@ education:
       url: 'https://example.com'
   - area: Kebumen
     institution: SMK maarif 3 somalangu
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020
+    date_end: 2023
     summary: |
       
 
@@ -70,15 +70,15 @@ education:
       - Multimedia Production and Graphic Design
   - area: Kebumen
     institution: ponpes al-kahfi somalangu
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020
+    date_end: 2023
     summary: |
       
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - religious knowledge
+      - character building
+      - independence and discipline
 work:
   - position: Somalangu Studious Team
     company_name: Somalangu Studious
