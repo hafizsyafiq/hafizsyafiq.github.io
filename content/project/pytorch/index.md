@@ -1,7 +1,7 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: R Studio
+date: 2025
+external_link: https://hafizsyafiq.github.io/dataviz/
 tags:
   - Hugo
   - Wowchemy
