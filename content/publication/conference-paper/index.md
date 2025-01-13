@@ -46,13 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+
 url_video: 'https://www.instagram.com/reel/DESWc0yPq0k/?igsh=c2NkMHd2c3RkMnU4'
 
 # Featured image
