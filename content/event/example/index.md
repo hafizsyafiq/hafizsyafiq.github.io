@@ -6,11 +6,11 @@ event_url: https://example.org
 
 location: SMK Muhammadiyah 2 Boja
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Limbangan Street
+  city: Kendal
+  region: Tampingan
   postcode: '94305'
-  country: United States
+  country: Indonesia
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
