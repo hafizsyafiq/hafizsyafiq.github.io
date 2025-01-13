@@ -96,7 +96,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023
-    date_end: 2020-12-31
+    date_end: 2024
     summary: |
       Responsibilities include:
       - sorting goods
