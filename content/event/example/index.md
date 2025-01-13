@@ -17,8 +17,8 @@ abstract: 'The Darul Arqom Dasar (DAD) 2025 highlight video serves as a visual d
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '13 januari 2025'
-date_end: '21 Januari 2025'
+date: '2025-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
