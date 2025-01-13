@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Upcoming Project
 
-event: Hugo Blox Builder Conference
+event: Darul Arqom Dasar 2025
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: SMK Muhammadiyah 2 Boja
 address:
   street: 450 Serra Mall
   city: Stanford
