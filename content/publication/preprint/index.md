@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lores ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Water is a vital resource that supports the survival of all living beings on Earth. However, increasing human activities and climate change have led to the decline in the quality and availability of clean water. This poster is designed as an educational and campaign medium to raise public awareness about the importance of water conservation and sustainable management. By combining visual elements such as water droplets, rivers, and symbols of care, this poster conveys a message encouraging people to save water and maintain the cleanliness of water sources. It is expected that through an informative and engaging design, the public will be motivated to actively participate in preserving water sustainability for the environment and a better future.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
