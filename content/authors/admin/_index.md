@@ -53,7 +53,7 @@ education:
     date_start: 2023
     date_end: 2024
     summary: |
-      
+      ITESA Muhammadiyah Semarang (Institute of Technology and Science Muhammadiyah Semarang) is a higher education institution focused on the development of science and technology based on Islamic values. ITESA offers various study programs in technology, science, and management designed to produce high-quality graduates who are competitive in the job market. The campus is also active in student activities, research, and community service to support sustainable development.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
