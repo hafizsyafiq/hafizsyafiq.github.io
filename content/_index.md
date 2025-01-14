@@ -35,15 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-       I am a videography enthusiast with expertise in photography and videography, focusing on creating impactful visual content. My work explores the intersection of storytelling, technology, and creativity to produce engaging cinematic experiences.
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-      I apply various techniques in filming, editing, and post-production to analyze and enhance visual narratives. My research delves into how videography can effectively communicate messages, influence audiences, and support campaigns or projects across different sectors.
-
-      I am particularly interested in leveraging videography for educational content, social movements, and promotional materials. Through continuous exploration of innovative filming methods and editing tools, I aim to craft visuals that not only inform but also inspire.
-
-      Let’s collaborate to create powerful visual stories!
-
-
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
+        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
@@ -70,7 +66,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Project
       filters:
         folders:
           - event
