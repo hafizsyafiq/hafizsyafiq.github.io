@@ -45,25 +45,25 @@ interests:
   - Creative cinematography experiments
 
 education:
-  - area: Semarang
-    institution: ITESA Muhammadiyah Semarang
-    date_start: 2023
-    date_end: 2024
+  - area: ITESA Muhammadiyah Semarang
+    institution: Ngaliyan,Semarang,Jawa tengah
+    date_start: 2023-09-08
+    date_end: 
     summary: |
       ITESA Muhammadiyah Semarang (Institute of Technology and Science Muhammadiyah Semarang) is a higher education institution focused on the development of science and technology based on Islamic values. ITESA offers various study programs in technology, science, and management designed to produce high-quality graduates who are competitive in the job market. The campus is also active in student activities, research, and community service to support sustainable development.
-  - area: Kebumen
-    institution: SMK Maarif 3 Somalangu
-    date_start: 2020
-    date_end: 2023
+  - area: SMK Maarif 3 somalangu
+    institution: Kebumen
+    date_start: 2020-07-09
+    date_end: 2023-07-08
     summary: |
       Knowledge gained:
       - Basics of Software Development and Programming
       - Network Infrastructure and Computer Maintenance
       - Multimedia Production and Graphic Design
-  - area: Kebumen
-    institution: Ponpes Al-Kahfi Somalangu
-    date_start: 2020
-    date_end: 2023
+  - area: Ponpes Al-Kahfi Somalangu
+    institution: Kebumen
+    date_start: 2020-07-05
+    date_end: 2023-07-09
     summary: |
       Courses included:
       - Religious knowledge
@@ -74,7 +74,7 @@ work:
   - position: Somalangu Studious Team
     company_name: Somalangu Studious
     date_start: 2022-01-01
-    date_end: 2023
+    date_end: 2023-05-01
     summary: |2-
       Responsibilities include:
       - Managing Islamic boarding school social media
@@ -82,8 +82,8 @@ work:
       - Editing videos and images
   - position: Daily Worker
     company_name: Shopee Express
-    date_start: 2023-01-01
-    date_end: 2024-01-01
+    date_start: 2024-01-01
+    date_end: 2024-07-01
     summary: |
       Responsibilities include:
       - Sorting goods
