@@ -23,7 +23,7 @@ abstract: |
   I created this design using the Canva and Adobe Photoshop applications. Canva is used as a practical tool for drafting initial design concepts, thanks to its wide range of templates, graphic elements and easy-to-access features. Meanwhile, Adobe Photoshop is used to perfect design details, such as image processing, color adjustments, and adding special effects that require a high level of precision. The combination of these two applications allows me to create attractive, functional and professional designs.
 
 summary: |
-  This design was made for a competition
+  This video project was created to document the basic darul arqam in 2025
 
 tags:
   - Videography
@@ -34,9 +34,10 @@ tags:
 featured: true
 
 links:
-  - name: Watch Design
+  - name: Watch on Instagram
     url: 'https://www.instagram.com/reel/DESWc0yPq0k/?igsh=c2NkMHd2c3RkMnU4'
-  
+  - name: Download Full Project
+    url: 'https://example.com/project-details'
 
 image:
   caption: 'Behind the scenes of our project. [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
