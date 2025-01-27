@@ -21,6 +21,7 @@ publication_short: In *ICW*
 
 Aplication: |
   I made this video using the Capcut application
+  
 summary: |
  This video project was created to document the basic darul arqam in 2025
 
@@ -33,7 +34,7 @@ tags:
 featured: true
 
 links:
-  - name: Watch on Instagram
+  - name: Watch one
     url: 'https://www.instagram.com/reel/DESWc0yPq0k/?igsh=c2NkMHd2c3RkMnU4'
   - name: Download Full Project
     url: 'https://example.com/project-details'
