@@ -7,6 +7,6 @@ tags:
   - Wowchemy
   - Markdown
 ---
-Visual Studio Code (VSCode) is a powerful and flexible code editor for software development, providing support for debugging, version control, and a wide range of programming languages through extensions
+Desain apliaksi menggunakan Figma
 
 <!--more-->
