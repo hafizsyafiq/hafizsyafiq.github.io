@@ -14,14 +14,14 @@ date: '2025-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
 
 publication_types:
-  - other
+  - Video
 
-publication: In *IMM AL-KHAWARIZMI*
+publication: In *Instagram IMM AL-KHAWARIZMI*
 publication_short: In *ICW*
 
 abstract: |
   This video was made using the CapCut application for the editing process and the camera as the main tool for taking pictures. With the help of the CapCut application, I can compose, edit and add various creative effects to videos, so that the final result is more attractive and professional. The camera is used to capture important moments with good quality, which are then refined through the editing process in the application. The combination of the two allows for the creation of videos that are maximal in terms of visuals and concept.
-  
+
 summary: |
   This video project was created to document the basic darul arqam in 2025
 
