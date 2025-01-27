@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Web Design with VSCODE
+Desain Web dengan VSCODE
 
 <!--more-->
