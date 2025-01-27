@@ -128,7 +128,7 @@ languages:
 # Awards
 awards:
   - title: 2nd China-Asean International Competition on Water Resources and Electric Power
-    url: https://www.instagram.com/p/DDYRZC3zgQW/?igsh=MTZtbDY0ZzkxNzdpaQ==
+    url: https://drive.google.com/file/d/1-jSykTdyK_eURStKl3JQtNPZggFj5ltF/view?usp=drivesdk
     date: '2023-11-25'
     awarder: China-Asean
     icon: water
