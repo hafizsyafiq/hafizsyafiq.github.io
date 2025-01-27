@@ -32,7 +32,8 @@ profiles:
   - icon: at-symbol
     url: 'hafiznursyafik@gmail.com'
     label: E-mail Me
-
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/chafidz_99?igsh=MTVreTg3ejBocTFrNg==
   - icon: brands/github
