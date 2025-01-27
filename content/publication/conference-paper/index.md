@@ -23,7 +23,7 @@ abstract: |
   This project delves into the dynamic world of video production, emphasizing creativity, innovation, and impactful storytelling. It explores the integration of advanced videography techniques with compelling narratives to produce visually engaging content. By leveraging cutting-edge editing tools and collaborative efforts, the project aims to inspire and captivate diverse audiences. The ultimate goal is to demonstrate the transformative power of video as a medium for communication, education, and artistic expression.
 
 summary: |
-  Focusing on creativity and storytelling, this project showcases advanced videography techniques that captivate audiences and push the boundaries of visual media.
+  This video project was created to document the basic darul arqam in 2025
 
 tags:
   - Videography
