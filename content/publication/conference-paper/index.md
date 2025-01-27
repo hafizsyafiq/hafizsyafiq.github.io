@@ -36,8 +36,7 @@ featured: true
 links:
   - name: Watch on Instagram
     url: 'https://www.instagram.com/reel/DESWc0yPq0k/?igsh=c2NkMHd2c3RkMnU4'
-  - name: Download Full Project
-    url: 'https://example.com/project-details'
+  
 
 image:
   caption: 'Behind the scenes of our project. [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
