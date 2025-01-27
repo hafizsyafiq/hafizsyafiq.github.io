@@ -3,15 +3,14 @@ title: 'Project Video'
 
 authors:
   - Hafiz Nursyafiq
-  - Rafi Indra
-  - Talitha Zhara
+  - Alif Notonegoro
 
 author_notes:
   - 'Lead Videographer and Editor'
   - 'Creative Director'
-  - 'Production Assistant'
+  
 
-date: '2025-07-01T00:00:00Z'
+date: '2025-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
 
 publication_types:
