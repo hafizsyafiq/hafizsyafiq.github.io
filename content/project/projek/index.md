@@ -7,6 +7,6 @@ tags:
   - Wowchemy
   - Markdown
 ---
-Desain Interaksi menggunakan Figma
+Desain Aplikasi menggunakan Figma
 
 <!--more-->
