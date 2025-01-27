@@ -1,13 +1,13 @@
 ---
-title: R Studio
+title: VSCODE
 date: 2025
-external_link: https://hafizsyafiq.github.io/dataviz/
+external_link: https://hafizsyafiq.github.io/
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Desain Web dengan VSCODE
 
 <!--more-->
