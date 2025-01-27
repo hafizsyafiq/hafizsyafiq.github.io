@@ -58,7 +58,7 @@ As a token of appreciation for sponsoring, you can **unlock [these](https://hugo
 ## Features
 
 - **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Edit any type of content** - Blog posts, publications, slides, projects, and more!
 - **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
 - **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
 - **Display Code and Math** - Code syntax highlighting and LaTeX math supported
