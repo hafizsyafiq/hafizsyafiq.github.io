@@ -1,5 +1,5 @@
 ---
-title: Desain Interaksi Pengguna
+title: User Interaction Design
 date: 2024-01-21
 external_link: https://www.figma.com/proto/vvJ9UBKpp3C810VHrdJTF4/Untitled?node-id=0-1&t=lSLXuHr8Z6t61fV6-1
 tags:
@@ -7,6 +7,6 @@ tags:
   - Wowchemy
   - Markdown
 ---
-Desain apliaksi menggunakan Figma
+Application design using Figma
 
 <!--more-->

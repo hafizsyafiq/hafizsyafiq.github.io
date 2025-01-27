@@ -1,6 +1,6 @@
 ---
 title: VSCODE
-date: 2025
+date: 2025-01-28
 external_link: https://hafizsyafiq.github.io/
 tags:
   - Hugo
@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Desain Web dengan VSCODE
+Web Design with VSCODE
 
 <!--more-->

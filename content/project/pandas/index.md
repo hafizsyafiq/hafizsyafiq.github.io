@@ -1,5 +1,5 @@
 ---
-title: Visualisasi Data
+title: Data Visualization
 date: 2024-01-21
 external_link: https://hafizsyafiq.github.io/UAS-dataviz/
 tags:
@@ -7,6 +7,6 @@ tags:
   - Wowchemy
   - Markdown
 ---
-Visualisasi data menggunakan R studio
+Data visualization using R studio
 
 <!--more-->
