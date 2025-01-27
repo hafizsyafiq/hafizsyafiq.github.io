@@ -1,5 +1,5 @@
 ---
-title: 'Project Video'
+title: 'Prject Design'
 
 authors:
   - Hafiz Nursyafiq
@@ -10,20 +10,20 @@ author_notes:
   - 'Creative Director'
   
 
-date: '2025-01-01T00:00:00Z'
-publishDate: '2025-01-01T00:00:00Z'
+date: '2024-11-012T00:00:00Z'
+publishDate: '2024-11-15T00:00:00Z'
 
 publication_types:
-  - Video
+  - Design
 
-publication: In *Instagram IMM AL-KHAWARIZMI*
+publication: In *2nd asean*
 publication_short: In *ICW*
 
 abstract: |
-  This video was made using the CapCut application for the editing process and the camera as the main tool for taking pictures. With the help of the CapCut application, I can compose, edit and add various creative effects to videos, so that the final result is more attractive and professional. The camera is used to capture important moments with good quality, which are then refined through the editing process in the application. The combination of the two allows for the creation of videos that are maximal in terms of visuals and concept.
+  I created this design using the Canva and Adobe Photoshop applications. Canva is used as a practical tool for drafting initial design concepts, thanks to its wide range of templates, graphic elements and easy-to-access features. Meanwhile, Adobe Photoshop is used to perfect design details, such as image processing, color adjustments, and adding special effects that require a high level of precision. The combination of these two applications allows me to create attractive, functional and professional designs.
 
 summary: |
-  This video project was created to document the basic darul arqam in 2025
+  This design was made for a competition
 
 tags:
   - Videography
@@ -34,10 +34,9 @@ tags:
 featured: true
 
 links:
-  - name: Watch on Instagram
+  - name: Watch Design
     url: 'https://www.instagram.com/reel/DESWc0yPq0k/?igsh=c2NkMHd2c3RkMnU4'
-  - name: Download Full Project
-    url: 'https://example.com/project-details'
+  
 
 image:
   caption: 'Behind the scenes of our project. [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
