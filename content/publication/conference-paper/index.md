@@ -10,7 +10,7 @@ author_notes:
   - 'Creative Director'
   
 
-date: '2025-01-01T00:00:00Z'
+date: '2025-01-14T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
 
 publication_types:
@@ -34,11 +34,11 @@ tags:
 featured: true
 
 links:
-  - name: Video 1
+  - name: whact now
     url: 'https://www.instagram.com/reel/DFClv5PvkB_/?igsh=MWhyYzBuN3Vxa2hxdQ=='
   
 
-  
+
 image:
   caption: 'Behind the scenes of our project. [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   filename: 'featured.jpg'
