@@ -20,8 +20,8 @@ publication: In *IMM AL-KHAWARIZMI*
 publication_short: In *ICW*
 
 abstract: |
-  This project delves into the dynamic world of video production, emphasizing creativity, innovation, and impactful storytelling. It explores the integration of advanced videography techniques with compelling narratives to produce visually engaging content. By leveraging cutting-edge editing tools and collaborative efforts, the project aims to inspire and captivate diverse audiences. The ultimate goal is to demonstrate the transformative power of video as a medium for communication, education, and artistic expression.
-
+  This video was made using the CapCut application for the editing process and the camera as the main tool for taking pictures. With the help of the CapCut application, I can compose, edit and add various creative effects to videos, so that the final result is more attractive and professional. The camera is used to capture important moments with good quality, which are then refined through the editing process in the application. The combination of the two allows for the creation of videos that are maximal in terms of visuals and concept.
+  
 summary: |
   This video project was created to document the basic darul arqam in 2025
 
