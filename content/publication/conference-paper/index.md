@@ -36,14 +36,9 @@ featured: true
 links:
   - name: Video 1
     url: 'https://www.instagram.com/reel/DFClv5PvkB_/?igsh=MWhyYzBuN3Vxa2hxdQ=='
-  - name: Video 2
-    url: 'https://www.instagram.com/reel/DEzWjTXP8CE/?igsh=MThwOTFsMDl5NDRxdQ=='
-  - name: Video 3
-    url: 'https://www.instagram.com/reel/DESWc0yPq0k/?igsh=MWQyamozbXkxdnhpZw=='
-  - name: Video 4
-    url: 'https://www.instagram.com/reel/DDj8jNDPpXP/?igsh=ZnlhOThoZWh4d3hv'
   
 
+  
 image:
   caption: 'Behind the scenes of our project. [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   filename: 'featured.jpg'
