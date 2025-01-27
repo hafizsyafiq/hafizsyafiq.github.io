@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Researc'
       subtitle: ''
       text: |-
         I am a videography enthusiast with expertise in photography and videography, focusing on creating impactful visual content. My work explores the intersection of storytelling, technology, and creativity to produce engaging cinematic experiences.
