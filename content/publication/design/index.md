@@ -14,16 +14,16 @@ date: '2025-01-14T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
 
 publication_types:
-  - Video
+  - Design
 
-publication: In *Instagram IMM AL-KHAWARIZMI*
+publication: In *2nd Asean Competition*
 publication_short: In *ICW*
 
 abstract: |
   I created designs for competitions using the Canva and Photoshop applications as the main tools in the editing process. In this project, I focused on creating a poster that would be used as part of the competition. I combine various design elements to create interesting results that match the specified theme.
 
 summary: |
-  This video project was created to document the basic darul arqam in 2025
+  This video project was made for a competition
 
 tags:
   - Videography
