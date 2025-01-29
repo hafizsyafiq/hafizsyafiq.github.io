@@ -5,17 +5,3 @@
   <path d="M0 357L87 395L175 347L262 368L349 428L436 449L524 363L611 390L698 352L785 379L873 368L960 401L960 253L873 285L785 253L698 258L611 280L524 296L436 334L349 301L262 307L175 285L87 247L0 226Z" fill="#0073e6"></path>
   <path d="M0 541L87 541L175 541L262 541L349 541L436 541L524 541L611 541L698 541L785 541L873 541L960 541L960 399L873 366L785 377L698 350L611 388L524 361L436 447L349 426L262 366L175 345L87 393L0 355Z" fill="#3399ff"></path>
 </svg>
-/* Mengubah warna background utama menjadi biru */
-body {
-    background-color: #007bff; /* Warna biru */
-    color: white; /* Warna teks agar kontras */
-}
-
-/* Mengatur latar belakang konten utama agar tetap terlihat nyaman */
-.main-container {
-    background-color: rgba(255, 255, 255, 0.9); /* Latar belakang putih dengan transparansi */
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    color: black; /* Warna teks agar tetap terbaca */
-}
