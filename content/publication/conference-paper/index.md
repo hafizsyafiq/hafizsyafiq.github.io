@@ -35,7 +35,7 @@ featured: true
 
 links:
   - name: whact now
-    url: 'https://www.instagram.com/reel/DFClv5PvkB_/?igsh=MWhyYzBuN3Vxa2hxdQ=='
+    url: 'https://drive.google.com/file/d/1G-kcY_hTZbLelk-4_KCtD6JJ3-hul2oi/view?usp=drivesdk'
   
 
 
