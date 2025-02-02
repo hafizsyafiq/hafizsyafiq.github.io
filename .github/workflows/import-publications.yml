@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Sudah versi terbaru
 
       - name: Set up Python 3.12
         uses: actions/setup-python@v4
@@ -51,6 +51,12 @@ jobs:
           labels: automated-pr, content
           branch: hugoblox-import-publications
           delete-branch: true
+
+      - name: Upload artifacts (Jika diperlukan)
+        uses: actions/upload-artifact@v4  # Diperbarui ke v4
+        with:
+          name: publication-artifacts
+          path: content/publication/
 
       - name: Display PR Details
         if: steps.cpr.outputs.pull-request-number
