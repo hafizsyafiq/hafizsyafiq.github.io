@@ -1,5 +1,5 @@
 ---
-title: 'Project Design'
+title: 'Desain grafis'
 
 authors:
   - Hafiz Nursyafiq
