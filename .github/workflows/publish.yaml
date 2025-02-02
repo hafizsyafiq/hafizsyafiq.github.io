@@ -42,7 +42,7 @@ jobs:
           echo "Public folder exists."; 
           ls -lah ./public;
         else 
-          echo "Public folder is missing!"; 
+          echo "ERROR: Public folder is missing!"; 
           exit 1;
         fi
     - name: Upload artifact
@@ -50,6 +50,7 @@ jobs:
       with:
         name: github-pages
         path: ./public/
+        retention-days: 1
 
   deploy:
     runs-on: ubuntu-latest
@@ -63,6 +64,15 @@ jobs:
       with:
         name: github-pages
         path: ./public
+    - name: Debug downloaded artifact
+      run: |
+        if [ -d "./public" ]; then 
+          echo "Downloaded artifact exists."; 
+          ls -lah ./public;
+        else 
+          echo "ERROR: No artifact found!"; 
+          exit 1;
+        fi
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
