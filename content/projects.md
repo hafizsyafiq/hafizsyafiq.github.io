@@ -1,5 +1,5 @@
 ---
-title: 'Proyek'
+title: 'Projects'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Proyek Terpilih
-      text: Saya senang membuat berbagai hal. Berikut adalah beberapa proyek yang telah saya kerjakan selama ini.
+      title: Selected Projects
+      text: I enjoy making things. Here is a selection of projects I have worked on recently.
       filters:
         folders:
           - project
@@ -20,5 +20,4 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
-      padding: '1rem'
 ---

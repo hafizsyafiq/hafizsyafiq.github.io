@@ -1,87 +1,71 @@
 ---
-title: 'An example conference paper'
+title: 'Project Video'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Hafiz Nursyafiq
+  - Alif Notonegoro
 
-# Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Lead Videographer and Editor'
+  - 'Creative Director'
+  
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2025-01-14T00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publication_types:
+  - Video
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: In *Instagram IMM AL-KHAWARIZMI*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  This video was made using the CapCut application for the editing process and the camera as the main tool for taking pictures. With the help of the CapCut application, I can compose, edit and add various creative effects to videos, so that the final result is more attractive and professional. The camera is used to capture important moments with good quality, which are then refined through the editing process in the application. The combination of the two allows for the creation of videos that are maximal in terms of visuals and concept.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: |
+  This video project was created to document the basic darul arqam in 2025
 
 tags:
-  - Large Language Models
+  - Videography
+  - Storytelling
+  - Creative Projects
+  - Cinematography
 
-# Display this page in the Featured widget?
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: whact now
+    url: 'https://drive.google.com/file/d/1G-kcY_hTZbLelk-4_KCtD6JJ3-hul2oi/view?usp=drivesdk'
+  
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+  caption: 'Behind the scenes of our project. [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  filename: 'featured.jpg'
+  focal_point: center
+  style: |
+    filter: brightness(0.9) contrast(1.2);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
   - example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
+
+design:
+  css_class: 'bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 text-white'
+  card:
+    shadow: true
+    border_radius: '8px'
+    padding: '2rem'
+
+extra:
+  - block: callout
+    content: |
+      > 🎥 **Get Inspired**: Unlock the full potential of video production and storytelling! This project serves as a stepping stone toward mastering the art of cinematic visuals.
+      >
+      > Ready to dive in? Explore more below!
+    design:
+      css_class: 'text-lg bg-gray-900 text-white rounded-md p-4 shadow-lg'
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Adi Prasetyo
+title: Hafiz Nursyafiq
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Adi 
-last_name: Prasetyo
+first_name: Hafiz
+last_name: Nursyafiq
 
 # Status emoji
 status:
-  icon: 
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,135 +20,125 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mahasiswa Rekayasa Perangkat Lunak
+role: Software Engineering Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
-    url: https://itesa.ac.id/
+  - name: ITESA Muhammadiyah Semarang
+    url: https://openai.com/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:prasetyaadhi398@gmail.com'
+    url: 'hafiznursyafik@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/AadyprazZy
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/adiprasetyo/
+    url: https://www.instagram.com/chafidz_99?igsh=MTVreTg3ejBocTFrNg==
   - icon: brands/github
-    url: https://github.com/adiprasetyo045
+    url: https://github.com/gcushen
+
 interests:
-  - Software Engineering
-  - Web Development
-  - Mobile Application Development
-  - UI/UX Design
+  - Exploration of videography technology
+  - Development of visual storytelling 
+  - Creative cinematography experiments
 
 education:
-  - area: S1 Rekayasa Perangkat Lunak
-    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
-    date_start: '2023-06-01'
-    date_end: '2027-06-03'
+  - area: ITESA Muhammadiyah Semarang
+    institution: Ngaliyan,Semarang,Jawa tengah
+    date_start: 2023-09-08
+    date_end: 
     summary: |
-      Aktif mempelajari pengembangan perangkat lunak modern dengan fokus pada
-      pengembangan aplikasi berbasis web dan mobile. Tertarik dalam penelitian
-      yang mengintegrasikan teknologi AI dalam pengembangan software.
-    button:
-      text: "Lihat Portofolio"
-      url: "https://github.com/adiprasetyo045"
-  - area: SMA Muhammadiyah 1 Wonogiri
-    institution: Sma Muhammadiyah 1 Wonogiri
-    date_start: 2020-01-01
-    date_end: 2023-12-12
+      ITESA Muhammadiyah Semarang (Institute of Technology and Science Muhammadiyah Semarang) is a higher education institution focused on the development of science and technology based on Islamic values. ITESA offers various study programs in technology, science, and management designed to produce high-quality graduates who are competitive in the job market. The campus is also active in student activities, research, and community service to support sustainable development.
+  - area: SMK Maarif 3 somalangu
+    institution: Kebumen
+    date_start: 2020-07-09
+    date_end: 2023-07-08
     summary: |
-      Selama menempuh pendidikan di SMA Muhammadiyah 1 Wonogiri, saya belajar di lingkungan yang berfokus pada teknologi informasi dan tahfidz (pondok pesantren). Saya mendapatkan pemahaman yang lebih dalam tentang sistem komputer, multimedia, dan keamanan informasi. Selain itu, pengalaman belajar di lingkungan pesantren membantu saya dalam mengembangkan disiplin, etika, dan keterampilan manajemen waktu yang baik.
-      Mata Pelajaran Terkait:
-      - Computer System
-      - Desain
-      - Information Security
-  - area: SMP
-    institution: Smp Muhammadiyah 7 Eromoko
-    date_start: 2017-01-01
-    date_end: 2020-12-31
+      Knowledge gained:
+      - Basics of Software Development and Programming
+      - Network Infrastructure and Computer Maintenance
+      - Multimedia Production and Graphic Design
+  - area: Ponpes Al-Kahfi Somalangu
+    institution: Kebumen
+    date_start: 2020-07-05
+    date_end: 2023-07-09
     summary: |
-      Selama menempuh pendidikan di SMP, saya mulai mengenal dunia teknologi dan pemrograman. Saya mempelajari dasar-dasar sistem komputer serta penggunaan platform pembelajaran digital yang membantu memahami konsep teknologi secara lebih mendalam.
-
-      Mata Pelajaran Terkait:
-
-      Sistem Komputer
-      -Pemantauan Progres Pembelajaran
-      -Pengenalan Learning Management System (LMS)
+      Courses included:
+      - Religious knowledge
+      - Character building
+      - Independence and discipline
 
 work:
-  - position: Staff Rumah Makan Angkringan Pak Mo
-    company_name: Rumah Makan Angkringan Pak Mo
-    company_url: ""
-    company_logo: ""
-    date_start: 2023-06-20
-    date_end: 2023-08-01
+  - position: Somalangu Studious Team
+    company_name: Somalangu Studious
+    date_start: 2022-01-01
+    date_end: 2023-05-01
+    summary: |2-
+      Responsibilities include:
+      - Managing Islamic boarding school social media
+      - Documenting each event
+      - Editing videos and images
+  - position: Daily Worker
+    company_name: Shopee Express
+    date_start: 2024-01-01
+    date_end: 2024-07-01
     summary: |
-      Bertugas melayani pelanggan dengan ramah, menjaga kebersihan lingkungan rumah makan, membantu persiapan makanan dan minuman, serta memastikan operasional harian berjalan lancar.
+      Responsibilities include:
+      - Sorting goods
+      - Serving inbound and outbound goods delivery
+      - Scanning goods according to destination address
 
+# Skills
 skills:
   - name: Technical Skills
     items:
-      - name: Git
-        description: ""
-        percent: 100
-        icon: assets/media/icons/git.png
-      - name: SQL
-        description: ""
-        percent: 75
-        icon: assets/media/icons/sql.png
-      - name: Figma
-        description: ""
-        percent: 75
-        icon: assets/media/icons/figma.png
+      - name: capcut
+        percent: 80
+        icon: code-bracket
+      - name: Canva
+        percent: 80
+        icon: chart-bar
+      - name: Adobe Lightroom
+        percent: 60
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Game
-        description: ""
+      - name: Hiking
         percent: 60
-        icon: joystick
-      - name: Menonton Film
-        description: ""
+        icon: person-simple-walk
+      - name: Badminton
         percent: 100
-        icon: film
-      - name: Jalan-jalan
-        description: ""
+        icon: badminton
+      - name: Photography
         percent: 80
-        icon: map
+        icon: camera
 
 languages:
+  - name: Bahasa
+    percent: 100
   - name: English
-    percent: 30
-  - name: Indonesia
-    percent: 80
+    percent: 25
+  - name: Java
+    percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Sertifikasi Microsoft
-    url: https://drive.google.com/file/d/1gmnlsV27Bna3vS72C8GqKfLLFWOYrlFm/view?usp=drive_link
-    date: 2025-01-16
-    awarder: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
+  - title: 2nd China-Asean International Competition on Water Resources and Electric Power
+    url: https://drive.google.com/file/d/1-jSykTdyK_eURStKl3JQtNPZggFj5ltF/view?usp=drivesdk
+    date: '2023-11-25'
+    awarder: China-Asean
+    icon: water
     summary: |
-      Saya memperoleh Sertifikasi Microsoft setelah menyelesaikan program pelatihan yang komprehensif untuk meningkatkan kemampuan dalam teknologi Microsoft. Sertifikasi ini mengakui keahlian saya dalam menggunakan alat-alat Microsoft untuk menyelesaikan tantangan bisnis secara efektif, mencerminkan keterampilan yang kuat dalam produktivitas dan solusi perangkat lunak.
-  - title: Sertifikasi Informatika
-    url: https://drive.google.com/file/d/1uyLlCUHw4OiW6m6qr8qmK2lLrONDlI_l/view?usp=drive_link
-    date: 2023-05-19
-    awarder: SMA Muhammadiyah 1 Wonogiri
-    summary: |
-      Saya mendapatkan Sertifikasi Informatika di tingkat sekolah menengah atas karena menunjukkan keunggulan dalam studi dan aplikasi ilmu komputer serta teknologi informasi. Pengakuan ini mencerminkan pemahaman saya yang kuat tentang prinsip-prinsip inti informatika, termasuk pemrograman, manajemen data, dan desain sistem, yang saya kembangkan selama pendidikan di SMA.
+      "Saya memenangkan medali perak dalam ajang *2nd China-Asean International Competition on Water Resources and Electric Power*."
+
 ---
 
-## Tentang Saya
+## About Me
 
-“Halo! Saya Adi Prasetyo, seorang mahasiswa Teknik Perangkat Lunak di ITESA Semarang. Saya memiliki minat dalam pengembangan aplikasi berbasis web, teknologi modern, dan kecerdasan buatan.
-
-Saya berpengalaman menggunakan teknologi seperti VScode, Rstudio,figma, SQL, dan Git. Selain itu, saya menikmati mendesain antarmuka pengguna dengan Figma untuk menciptakan pengalaman yang menarik.”
+Software Engineering student at ITESA Muhammadiyah Semarang who has a high enthusiasm for developing technology and digital innovation. Apart from that, I am also a content creator with expertise in photography and videography, creating creative and highly attractive visual works.  
+Experienced in creating informative and inspiring content, and has technical skills in the field of software development. Active in various campus activities, including committees and collaborative projects that require good time management and communication.  
+My commitment is to create technology solutions that have a positive impact and content that supports sustainability and empowers communities.
