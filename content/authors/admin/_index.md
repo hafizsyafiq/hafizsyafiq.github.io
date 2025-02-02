@@ -94,7 +94,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: MYSQL
+      - name: capcut
         percent: 80
         icon: code-bracket
       - name: Canva
