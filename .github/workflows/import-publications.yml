@@ -53,7 +53,7 @@ jobs:
           delete-branch: true
 
       - name: Upload artifacts (Jika diperlukan)
-        uses: actions/upload-artifact@v3  # Diperbarui ke v4
+        uses: actions/upload-artifact@v4  # Diperbarui ke v4
         with:
           name: publication-artifacts
           path: content/publication/
