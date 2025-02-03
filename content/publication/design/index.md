@@ -20,7 +20,7 @@ publication: In *2nd asean*
 publication_short: In *ICW*
 
 abstract: |
-  Desain ini saya buat untuk memenuhi lomba yang diadakan dengan menggunakan aplikasi photoshop 
+  Desain ini dibuat untuk memenuhi lomba dengan menggunakan Adobe Photoshop, menampilkan kombinasi estetika visual, komposisi warna, dan elemen grafis yang harmonis. Berbagai teknik seperti manipulasi gambar, pencahayaan, tipografi, dan efek visual diterapkan untuk menciptakan kesan yang dinamis dan profesional.
 
 summary: |
   Desain ini dibuat untuk lomba
