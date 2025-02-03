@@ -16,7 +16,7 @@ publishDate: '2025-01-01T00:00:00Z'
 publication_types:
   - Desain
 
-publication: In *2nd asean*
+publication: In *2nd asean water competition*
 publication_short: In *ICW*
 
 abstract: |
