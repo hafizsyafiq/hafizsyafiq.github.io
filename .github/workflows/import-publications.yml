@@ -29,7 +29,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
       with:
-        # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
 
     - name: Setup Hugo
@@ -60,9 +59,9 @@ jobs:
       run: npx pagefind --site "public"
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v4  # Menggunakan versi terbaru
+      uses: actions/upload-artifact@v4  # ✅ PASTIKAN v4 DIGUNAKAN
       with:
-        name: github-pages  # Sesuai dengan yang akan digunakan di deploy
+        name: github-pages  # ✅ HARUS SAMA DENGAN DEPLOY
         path: ./public
 
   # Deploy website to GitHub Pages hosting
@@ -74,6 +73,12 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+    - name: Download artifact
+      uses: actions/download-artifact@v4  # ✅ PASTIKAN v4 DIGUNAKAN
+      with:
+        name: github-pages  # ✅ HARUS SAMA DENGAN UPLOAD
+        path: ./public
+
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v4  # Tetap pakai v4, versi terbaru
+      uses: actions/deploy-pages@v4  # ✅ PASTIKAN v4 DIGUNAKAN
