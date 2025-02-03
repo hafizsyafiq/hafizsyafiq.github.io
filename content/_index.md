@@ -47,7 +47,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: My Portofolio
+      title: My Artwork
       filters:
         folders:
           - publication
