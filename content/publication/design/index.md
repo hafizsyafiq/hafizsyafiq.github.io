@@ -20,10 +20,10 @@ publication: In *2nd asean*
 publication_short: In *ICW*
 
 abstract: |
-  Desain ini dibuat untuk memenuhi lomba dengan menggunakan Adobe Photoshop, menampilkan kombinasi estetika visual, komposisi warna, dan elemen grafis yang harmonis. Berbagai teknik seperti manipulasi gambar, pencahayaan, tipografi, dan efek visual diterapkan untuk menciptakan kesan yang dinamis dan profesional.
+  This design was created to meet the competitive use of Adobe Photoshop, featuring a harmonious blend of visual aesthetics, color composition and graphic elements. Various techniques such as image manipulation, lighting, typography, and visual effects are applied to create a dynamic and professional impression.
 
 summary: |
-  Desain ini dibuat untuk lomba
+ This design was created for the competition using Adobe Photoshop, prioritizing aesthetics, composition and professional graphic techniques.
 
 tags:
   - Videography
