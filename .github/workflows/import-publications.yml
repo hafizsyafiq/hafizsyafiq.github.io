@@ -60,7 +60,7 @@ jobs:
       run: npx pagefind --site "public"
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v4  # Menggunakan versi terbaru
       with:
         name: github-pages  # Sesuai dengan yang akan digunakan di deploy
         path: ./public
@@ -76,4 +76,4 @@ jobs:
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v4
+      uses: actions/deploy-pages@v4  # Tetap pakai v4, versi terbaru
