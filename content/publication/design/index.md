@@ -25,11 +25,7 @@ abstract: |
 summary: |
  This design was created for the competition using Adobe Photoshop, prioritizing aesthetics, composition and professional graphic techniques.
 
-tags:
-  - Videography
-  - Storytelling
-  - Creative Projects
-  - Cinematography
+
 
 featured: true
 
