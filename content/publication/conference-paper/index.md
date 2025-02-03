@@ -25,12 +25,6 @@ abstract: |
 summary: |
   This video project was created to document the basic darul arqam in 2025
 
-tags:
-  - Videography
-  - Storytelling
-  - Creative Projects
-  - Cinematography
-
 featured: true
 
 links:
