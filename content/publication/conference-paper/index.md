@@ -1,5 +1,5 @@
 ---
-title: 'Project Video'
+title: 'Videografi'
 
 authors:
   - Hafiz Nursyafiq
