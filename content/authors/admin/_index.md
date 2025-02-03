@@ -92,17 +92,17 @@ work:
 
 # Skills
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - name: capcut
-        percent: 80
-        icon: code-bracket
-      - name: Canva
+      - name: Videography
         percent: 80
         icon: chart-bar
-      - name: Adobe Lightroom
+      - name: Photography
+        percent: 80
+        icon: chart-bar
+      - name: Desain grafis
         percent: 60
-        icon: circle-stack
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
